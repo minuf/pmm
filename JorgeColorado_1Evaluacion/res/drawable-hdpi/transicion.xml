@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transition xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:drawable="@drawable/euros100_mini" />
+	<item android:drawable="@drawable/b200" />
+	<item android:drawable="@drawable/b500" />
+</transition>
